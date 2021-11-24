@@ -1,0 +1,1 @@
+The project [martinmarinov/rtl_tcp_andro-](https://github.com/martinmarinov/rtl_tcp_andro-) should import to [Android Studio 3.1](https://redirector.gvt1.com/edgedl/android/studio/ide-zips/3.1.0.16/android-studio-ide-173.4670197-windows.zip), using [android-ndk-r16b](https://dl.google.com/android/repository/android-ndk-r16b-windows-x86_64.zip).
